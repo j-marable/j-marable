@@ -11,6 +11,9 @@
 ### 😄 Pronouns: he/him
 ### ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
 
+![image](https://user-images.githubusercontent.com/105946345/194892500-eb7f294f-c112-4274-87af-d6ee69d9f4b4.png)
+
+
 <!--
 **j-marable/j-marable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
