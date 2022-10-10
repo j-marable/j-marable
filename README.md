@@ -2,7 +2,7 @@
 
 ## I'm a developer and entreprenuer!
 
-
+![gif1](https://user-images.githubusercontent.com/105946345/194892739-4416c687-1fcf-4648-a986-e15df680cb09.gif)
 ### 🔭 I’m currently working on a machine learning project to help diagnose patients who may or may not have seizures.
 ### 🌱 I’m currently learning Python Machine Learning.
 ### 👯 I’m looking to collaborate on open source, contract, and private projects specifically related to machine learning.
@@ -10,8 +10,6 @@
 ### 💬 Ask me about Artificial Intelligence/Machine Learning!
 ### 😄 Pronouns: he/him
 ### ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
-![gif1](https://user-images.githubusercontent.com/105946345/194892739-4416c687-1fcf-4648-a986-e15df680cb09.gif)
-
 
 
 <!--
