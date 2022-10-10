@@ -10,8 +10,8 @@
 ### 💬 Ask me about Artificial Intelligence/Machine Learning!
 ### 😄 Pronouns: he/him
 ### ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
+![gif1](https://user-images.githubusercontent.com/105946345/194892739-4416c687-1fcf-4648-a986-e15df680cb09.gif)
 
-![image](https://user-images.githubusercontent.com/105946345/194892500-eb7f294f-c112-4274-87af-d6ee69d9f4b4.png)
 
 
 <!--
