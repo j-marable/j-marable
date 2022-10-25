@@ -4,7 +4,7 @@
 
 <img align="right" height="250" src="https://user-images.githubusercontent.com/105946345/194892739-4416c687-1fcf-4648-a986-e15df680cb09.gif">
 
-- 🔭 I’m currently working on a machine learning project to help diagnose patients who may or may not have seizures.
+- 🔭 I’m currently working on a machine learning project to help diagnose seizure patients.
 - 🌱 I’m currently learning Python Machine Learning.
 - 👯 I’m looking to collaborate on open source, contract, and private projects specifically related to machine learning.
 - 🤔 I’m looking for help with starting my own software development company!
