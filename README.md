@@ -1,6 +1,6 @@
 # Hello World, I'm Jarrod Marable 👋
 
-## I'm a developer, entreprenuer, and passionate about building systems to make the world a better place!
+## I'm a developer, entreprenuer, and passionate about building systems that solve problems and make the world a better place!
 
 <img align="right" height="250" src="https://user-images.githubusercontent.com/105946345/194892739-4416c687-1fcf-4648-a986-e15df680cb09.gif">
 
