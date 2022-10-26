@@ -19,10 +19,12 @@
 - VS Code
 - HTML5
 - CSS3
-- Python 3
-  - NumPy
-  - Pandas
-  - Matplotlib
+- Python 3 and Associated Libraries
+  - numpy
+  - pandas
+  - matplotlib
+  - pyttsx3
+  - speech_recognition
 - JavaScript
 
 <p align="center">
