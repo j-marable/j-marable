@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
 
 ## Contact Information:
-- Email:  
+- Email: marabjl0@sewanee.edu
 
 ## Languages and Tools:
 - VS Code
