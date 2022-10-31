@@ -25,6 +25,7 @@
   - matplotlib
   - pyttsx3
   - speech_recognition
+  - pygame
 - JavaScript
 
 <p align="center">
