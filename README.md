@@ -23,6 +23,7 @@
   - numpy
   - pandas
   - matplotlib
+  - scikit-learn
   - pygame
 - JavaScript
 
