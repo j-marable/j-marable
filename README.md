@@ -24,6 +24,7 @@
   - pandas
   - matplotlib
   - scikit-learn
+  - yfinance
   - pygame
 - JavaScript
 
