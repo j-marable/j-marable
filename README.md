@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a machine learning project to help diagnose seizure patients!
 - 🌱 I’m currently learning Python Machine Learning.
 - 👯 I’m looking to collaborate on open source, contract, and private projects specifically related to machine learning.
-- 🤔 I’m looking for help with starting my own software development company!
+- 🤔 I’m looking for clients to work with my company MRBL Systems!
 - 💬 Ask me about Artificial Intelligence/Machine Learning!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
