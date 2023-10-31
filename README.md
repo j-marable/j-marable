@@ -10,7 +10,7 @@
 - 🤔 I’m looking for clients to work with my company MRBL Systems!
 - 💬 Ask me about Artificial Intelligence/Machine Learning!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak three languages - English (native), Spanish (fluent), and Hebrew (fluent)
+- ⚡ Fun fact: I speak three languages - English (native), Spanish (advanced), and Hebrew (intermediate)
 
 ## Contact Information:
 - Email: marabjl0@sewanee.edu
